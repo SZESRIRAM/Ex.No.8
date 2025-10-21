@@ -1,4 +1,4 @@
-<img width="1275" height="1650" alt="image" src="https://github.com/user-attachments/assets/f59a9d34-b164-48bd-81ea-06a37b8c5356" />## Exp 8: Reproducing an Image Using Prompts for Image Generation
+## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
 # Date :
 # Reg. No. 
