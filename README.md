@@ -1,4 +1,4 @@
-## Exp 8: Reproducing an Image Using Prompts for Image Generation
+<img width="1275" height="1650" alt="image" src="https://github.com/user-attachments/assets/f59a9d34-b164-48bd-81ea-06a37b8c5356" />## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
 # Date :
 # Reg. No. 
@@ -47,9 +47,14 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 2.	The Final Generated Image: The image created using your refined prompt.
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
+## Output
+![image alt](https://github.com/SZESRIRAM/Ex.No.8/blob/main/EXP%208%20Page%201.jpg?raw=true)
+![image alt](https://github.com/SZESRIRAM/Ex.No.8/blob/main/EXP%208%20Page%202.jpg?raw=true)
 
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+![image alt](https://github.com/SZESRIRAM/Ex.No.8/blob/main/Cats.jpg?raw=true)
+![image alt](https://github.com/SZESRIRAM/Ex.No.8/blob/main/Mountains.jpg?raw=true)
